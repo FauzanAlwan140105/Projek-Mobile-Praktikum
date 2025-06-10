@@ -1,7 +1,7 @@
 # NewsApp
 
 ## Deskripsi Singkat
-**NewsApp** adalah aplikasi Android yang dirancang untuk memberikan pengalaman membaca berita yang mudah, cepat, dan personal. Dengan desain antarmuka modern dan fitur-fitur interaktif, NewsApp memudahkan pengguna dalam mengakses berita terkini dari berbagai belahan dunia, mencari topik sesuai minat, serta menyimpan artikel favorit untuk dibaca kapan saja. Aplikasi ini juga mendukung pengaturan tema light/dark sesuai preferensi pengguna untuk kenyamanan maksimal.
+**NewsApp** adalah aplikasi Android yang dirancang untuk memberikan pengalaman membaca berita yang mudah, cepat, dan personal. Dengan desain antarmuka modern dan fitur-fitur interaktif, NewsApp memudahkan pengguna dalam mengakses berita terkini dari berbagai belahan dunia, mencari topik sesuai minat, serta menyimpan Berita favorit untuk dibaca kapan saja. Aplikasi ini juga mendukung pengaturan tema light/dark sesuai preferensi pengguna untuk kenyamanan maksimal.
 
 NewsApp memanfaatkan layanan **NewsAPI** untuk memperoleh berita-berita aktual secara real-time. Salah satu contoh endpoint yang digunakan untuk mengambil berita populer bertema “apple” adalah:
 ```
@@ -12,7 +12,7 @@ API ini memungkinkan aplikasi menampilkan berita yang relevan, terfilter berdasa
 ## Fitur-Fitur Unggulan
 - **Berita Terkini Otomatis:** Selalu ter-update dengan berita terbaru dan terpopuler.
 - **Pencarian Cerdas:** Temukan berita sesuai kata kunci, topik, atau kategori yang diminati.
-- **Favoritkan Artikel:** Simpan berita penting ke daftar favorit untuk dibaca kembali dengan mudah.
+- **Favoritkan Berita:** Simpan berita penting ke daftar favorit untuk dibaca kembali dengan mudah.
 - **Tema Adaptif:** Pilihan mode terang (light) atau gelap (dark) yang dapat diubah kapan saja demi kenyamanan mata.
 - **Refresh & Penanganan Error:** Fitur refresh dan notifikasi jika terjadi kendala saat pemuatan data.
 
