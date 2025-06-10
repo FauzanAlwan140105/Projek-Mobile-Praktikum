@@ -1,4 +1,4 @@
-# NewsApp
+# BERITA UPDATE (APP)
 
 ## Deskripsi Singkat
 **NewsApp** adalah aplikasi Android yang dirancang untuk memberikan pengalaman membaca berita yang mudah, cepat, dan personal. Dengan desain antarmuka modern dan fitur-fitur interaktif, NewsApp memudahkan pengguna dalam mengakses berita terkini dari berbagai belahan dunia, mencari topik sesuai minat, serta menyimpan Berita favorit untuk dibaca kapan saja. Aplikasi ini juga mendukung pengaturan tema light/dark sesuai preferensi pengguna untuk kenyamanan maksimal.
