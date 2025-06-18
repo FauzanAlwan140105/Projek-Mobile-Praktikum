@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ProjekMobilePraktikum" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+    </style>
+
+    <style name="Theme.ProjekMobilePraktikum" parent="Base.Theme.ProjekMobilePraktikum">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/primary_dark_theme</item>
+        <item name="colorPrimaryVariant">@color/primary_darker</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/accent_dark_theme</item>
+        <item name="colorSecondaryVariant">@color/accent_dark_theme</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Status bar and navigation -->
+        <item name="android:statusBarColor">@color/primary_darker</item>
+
+        <!-- Background colors -->
+        <item name="android:colorBackground">@color/background_dark</item>
+        <item name="colorSurface">@color/surface_dark</item>
+        <item name="android:windowBackground">@color/background_dark</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/text_primary_dark</item>
+        <item name="android:textColorSecondary">@color/text_secondary_dark</item>
+        <item name="android:textColorTertiary">@color/text_tertiary_dark</item>
+
+        <!-- Card and surface colors -->
+        <item name="cardBackgroundColor">@color/background_card_dark</item>
+    </style>
+</resources>

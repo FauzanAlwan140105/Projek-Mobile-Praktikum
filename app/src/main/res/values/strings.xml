@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Projek Mobile Praktikum</string>
+
+    <!-- Favorite notifications -->
+    <string name="added_to_favorites">Berhasil ditambahkan ke favorit</string>
+    <string name="removed_from_favorites">Dihapus dari favorit</string>
+
+    <!-- Content descriptions -->
+    <string name="favorite_button">Tambah ke favorit</string>
+    <string name="article_image">Gambar artikel</string>
+    <string name="read_more">Baca Selengkapnya</string>
+
+    <!-- Error messages -->
+    <string name="error_no_internet">Gagal melakukan pencarian. Periksa koneksi internet Anda.</string>
+    <string name="error_general">Terjadi kesalahan: %1$s</string>
+    <string name="no_content">Konten tidak tersedia</string>
+    <string name="unknown_source">Tidak diketahui</string>
+    <string name="rate_limit_warning">Rate limit reached. Developer accounts are limited to 100 requests over a 24 hour period.</string>
+</resources>
